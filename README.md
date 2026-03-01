@@ -1,26 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 <h1 align="center">Hola , soy Andrés David Olarte Molina</h1>
 <h3 align="center">Técnico Informático | Estudiante de IT | Apasionado por la tecnología</h3>
-
-<!-- Badges de contacto (TODOS FUNCIONALES) -->
-<p align="center"> 
-  <a href="mailto:andresdavid.olartemolina@riberadeltajo.es">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/andres-david-olarte-molina-1b459231a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="https://github.com/Andrew8967" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  
-  <a href="https://www.facebook.com/andresdavid.olartemolina.7" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+34643195881" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
 
 <!-- Línea separadora visual -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -39,11 +22,11 @@ Soy un Técnico Informático en formación, actualmente estudiante de Sistemas M
 
 <br>
 
-<!-- ESTADÍSTICAS DE GITHUB (AHORA SÍ FUNCIONAN) -->
+<!-- ESTADÍSTICAS DE GITHUB (AHORA SÍ FUNCIONAN) 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Estadísticas de GitHub</b>
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Andrew8967&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
-</div>
+</div>-->
 
 
 <br>
@@ -62,7 +45,7 @@ Soy un Técnico Informático en formación, actualmente estudiante de Sistemas M
 <br>
 
 <!-- CONTACTO Y REDES -->
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b>Conecta Conmigo</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Conecta Conmigo</b>
 <p align="center">
   <a href="https://www.linkedin.com/in/andres-david-olarte-molina-1b459231a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
