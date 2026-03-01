@@ -18,7 +18,7 @@ Soy un Técnico Informático en formación, actualmente estudiante de Sistemas M
 - 🔭 Estoy trabajando en mi desarrollo profesional y dominar nuevos entornos.
 - 🌱 Aprendiendo constantemente sobre nuevas tecnologías y mejores prácticas en entornos de desarrollador.
 - 📫 Cómo contactarme: **[andresdavid.olartemolina@riberadeltajo.es](mailto:andresdavid.olartemolina@riberadeltajo.es)**
-- 📄 Conoce mi experiencia en mi [**currículum web**](https://curriculum01-wuziyg8cnn.edgeone.dev).
+- 📄 Conoce mi experiencia en mi [**currículum web**](https://curriculum01-11538akmkq.edgeone.dev/).
 
 <br>
 
