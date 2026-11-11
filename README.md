@@ -20,7 +20,7 @@ Soy estudiante de 2º de Grado Medio de Sistemas Microinformáticos y Redes en e
 - 🌱 Aprendiendo Proxmox VE, contenedores LXC, Windows Server y AWS (AWS Academy).
 - 🤖 Doy clases de robótica a niños de 6 a 12 años con Arduino y Tinkercad.
 - 📫 Cómo contactarme: **[andresdavid.olartemolina@riberadeltajo.es](mailto:andresdavid.olartemolina@riberadeltajo.es)**
-- 📄 Conoce mi experiencia en mi [**perfil de LinkedIn**](https://www.linkedin.com/in/andres-olarte-molina-1b459231a/).
+- 📄 Conoce mi experiencia en mi [**currículum web**](https://andrew8967.github.io/curriculum/) y en mi [**perfil de LinkedIn**](https://www.linkedin.com/in/andres-olarte-molina-1b459231a/).
 
 <br>
 
